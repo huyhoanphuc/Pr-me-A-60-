@@ -10,7 +10,7 @@ local entity = Creator.createEntity({
     CanKill = true,
     BreakLights = false,
     KillRange = 30000,
-    BackwardsMovement = true,
+    BackwardsMovement = false,
     FlickerLights = {
         false, -- Enabled
         0.1, -- Time (seconds)
