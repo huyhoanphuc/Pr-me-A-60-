@@ -4,8 +4,8 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Pr!me_A-60", -- Custom name of your entity
     Model = "rbxassetid://12701752918", -- Can be GitHub file or rbxassetid
-    Speed = 200, -- Percentage, 100 = default Rush speed
-    DelayTime = 7, -- Time before starting cycles (seconds)
+    Speed = 400, -- Percentage, 100 = default Rush speed
+    DelayTime = 8, -- Time before starting cycles (seconds)
     HeightOffset = 4,
     CanKill = true,
     BreakLights = true,
